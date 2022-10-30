@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat&family=Raleway&display=swap');
+
+/* 
+font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif; 
+*/
+.room-container {
+    margin: 20px 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.rooms-title {
+    margin-top: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.room-container div {
+    padding: 20px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.room-container div h4 {
+    margin: 20px 0px 0px 0px;
+}
+
+.room-container button {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    padding: 5px 20px;
+    transition: 0.3s;
+}
+
+.room-container button:hover {
+    background-color: transparent;
+    color: black;
+}

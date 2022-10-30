@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat&family=Raleway&display=swap');
+
+/* 
+font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif; 
+*/
+.checkout h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.checkout h2 span {
+    font-style: italic;
+}
